@@ -1,7 +1,14 @@
 aid: chs
-url: https://raw.githubusercontent.com/api-evangelist/chs/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/chs/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.chs.com
+description: >-
+  We are the steel specialists. We are the largest special market mill in the United
+  States that rolls billet and rail steel. Our specialization extends beyond our product
+  range, it is in our commitment to our customers and their needs. We offer flexibility,
+  versatility, and a turnaround time that our customers can depend on. That takes
+  a team effort!
