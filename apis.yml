@@ -49,6 +49,8 @@ modified: '2026-04-23'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/chs
   - type: Website
     url: https://www.chsinc.com
   - type: AboutUs
