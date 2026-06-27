@@ -81,7 +81,7 @@ common:
   - type: Foundation
     name: CHS Foundation
     url: https://chsinc.com/stewardship-and-sustainability/chs-foundation
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.chsinc.com/terms-of-use
   - type: PrivacyPolicy
     url: https://www.chsinc.com/privacy-policy
