@@ -1,7 +1,9 @@
 ---
 title: CHS Inc's post
 url: https://www.facebook.com/CHSInc/posts/cooperative-ventures-a-joint-venture-between-farmer-owned-cooperatives-chs-and-g/1540997380376074/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CHS" press release artificial intelligence'
 position: 5
 source: serpapi-google
