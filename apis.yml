@@ -1,5 +1,5 @@
 aid: chs
-name: CHS Inc.
+name: CHS
 kind: company
 description: >-
   CHS Inc. is a Fortune 500 diversified, integrated, global agricultural
@@ -148,3 +148,4 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-legal-name: CHS Inc.
